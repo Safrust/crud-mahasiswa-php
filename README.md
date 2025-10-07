@@ -1,12 +1,5 @@
 # 🎓 CRUD Mahasiswa - Sistem Informasi Mahasiswa
 
-[![PHP](https://img.shields.io/badge/PHP-8.2.4-blue.svg)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)](https://mysql.com)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.1.3-purple.svg)](https://getbootstrap.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-# 🎓 CRUD Mahasiswa - Sistem Informasi Mahasiswa
-
 [![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://mysql.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.1.3-purple.svg)](https://getbootstrap.com)
