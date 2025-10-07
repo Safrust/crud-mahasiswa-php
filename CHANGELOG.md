@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ## [1.0.0] - 2025-10-07
 
 ### Added
+
 - ✨ Complete CRUD operations for student data management
 - 🎨 Modern responsive UI with Bootstrap 5
 - 🔐 Security features (SQL injection prevention, input sanitization)
@@ -17,12 +18,14 @@ All notable changes to this project will be documented in this file.
 - 🎯 MVC-like architecture pattern
 
 ### Security
+
 - 🔒 PDO prepared statements implementation
 - 🧹 Input sanitization on all user inputs
 - 🚫 File access protection via .htaccess
 - ⚠️ Proper error handling without data exposure
 
 ### UI/UX
+
 - 🎨 Professional sidebar navigation
 - 📱 Bootstrap 5 responsive grid system
 - 🎭 Loading animations and smooth transitions
@@ -31,6 +34,7 @@ All notable changes to this project will be documented in this file.
 - 📊 Clean table layout with avatar placeholders
 
 ### Technical
+
 - 🏗️ Clean MVC architecture implementation
 - 💾 Optimized database queries
 - 📝 Comprehensive code documentation
@@ -38,6 +42,7 @@ All notable changes to this project will be documented in this file.
 - 🎪 Error handling and user feedback
 
 ### Database
+
 - 📋 Normalized table structure
 - 🔑 Primary keys and constraints
 - 📊 Sample data for testing
@@ -46,6 +51,7 @@ All notable changes to this project will be documented in this file.
 ## [0.1.0] - 2025-10-05
 
 ### Added
+
 - 🎬 Initial project setup
 - 📁 Basic file structure
 - 🗄️ Database schema design

@@ -9,17 +9,20 @@ Aplikasi web CRUD (Create, Read, Update, Delete) modern untuk mengelola data mah
 
 ## 🚀 Demo Live
 
-🌐 **[View Live Demo](https://your-username.github.io/crud-mahasiswa)** *(Coming Soon)*
+🌐 **[View Live Demo](https://safrust.github.io/crud-mahasiswa-php)** _(Coming Soon)_
 
 ## 📸 Screenshots
 
 ### Dashboard Utama
+
 ![Dashboard](docs/screenshots/dashboard.png)
 
-### Form Tambah Mahasiswa  
+### Form Tambah Mahasiswa
+
 ![Create Form](docs/screenshots/create-form.png)
 
 ### Mobile Responsive
+
 ![Mobile View](docs/screenshots/mobile-view.png)
 
 ## ✨ Fitur Utama
@@ -44,6 +47,7 @@ Aplikasi web CRUD (Create, Read, Update, Delete) modern untuk mengelola data mah
 ## 🛠️ Instalasi & Setup
 
 ### Persyaratan Sistem
+
 - XAMPP (Apache + MySQL + PHP 8.2+)
 - Web Browser modern (Chrome, Firefox, Edge)
 - Git (untuk clone repository)
@@ -51,30 +55,35 @@ Aplikasi web CRUD (Create, Read, Update, Delete) modern untuk mengelola data mah
 ### Langkah Instalasi
 
 1. **Clone Repository**
+
    ```bash
-   git clone https://github.com/your-username/crud-mahasiswa.git
-   cd crud-mahasiswa
+   git clone https://github.com/Safrust/crud-mahasiswa-php.git
+   cd crud-mahasiswa-php
    ```
 
 2. **Copy ke XAMPP Directory**
+
    ```bash
    # Windows
    copy -r * D:\xampp\htdocs\crud_mahasiswa\
-   
+
    # Linux/Mac
    cp -r * /opt/lampp/htdocs/crud_mahasiswa/
    ```
 
 3. **Start XAMPP Services**
+
    - Buka XAMPP Control Panel
    - Start Apache dan MySQL
 
 4. **Setup Database**
+
    - Buka phpMyAdmin: `http://localhost/phpmyadmin`
    - Create database: `crud_mahasiswa`
    - Import file: `database/crud_mahasiswa.sql`
 
 5. **Konfigurasi Database** (Opsional)
+
    - Edit `config/database.php` jika perlu adjust setting
    - Default: localhost, root, no password
 
@@ -290,6 +299,6 @@ Project ini dibuat untuk keperluan pembelajaran dan tugas kuliah.
 
 ---
 
-**Dibuat oleh**: [Nama Anda]  
-**Mata Kuliah**: Pemrograman Platform Web A  
+**Dibuat oleh**: Syafiq Rustiawanto  
+**Mata Kuliah**: Pemrograman Platform Web
 **Tanggal**: Oktober 2025

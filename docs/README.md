@@ -5,18 +5,23 @@
 Add screenshots of your application here:
 
 ### Dashboard
+
 ![Dashboard](screenshots/dashboard.png)
 
 ### Create Student Form
+
 ![Create Form](screenshots/create-form.png)
 
 ### Edit Student Form
+
 ![Edit Form](screenshots/edit-form.png)
 
 ### Student Details
+
 ![Student Details](screenshots/student-details.png)
 
 ### Responsive Design
+
 ![Mobile View](screenshots/mobile-view.png)
 
 ## Installation Guide
