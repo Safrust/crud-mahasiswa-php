@@ -1,0 +1,28 @@
+# Simple .htaccess untuk CRUD Mahasiswa
+
+# Compatible dengan Apache versi lama
+
+# Enable URL Rewriting
+
+RewriteEngine On
+
+# Redirect root ke views directory
+
+RewriteRule ^$ views/ [L]
+
+# Block access to sensitive files
+
+<Files "\*.sql">
+Order deny,allow
+Deny from all
+</Files>
+
+<Files "database.php">
+Order deny,allow
+Deny from all
+</Files>
+
+<Files "Mahasiswa.php">
+Order deny,allow
+Deny from all
+</Files>
